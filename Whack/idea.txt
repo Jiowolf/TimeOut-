@@ -1,3 +1,6 @@
 voir display square , cercle avec opacité pour bien voir les couleurs se superposer au cas ou 
 
 faire un seul timer et le faire choisir une Id aléatoire 
+
+timer de fin , supprimer rond restant et score
+
